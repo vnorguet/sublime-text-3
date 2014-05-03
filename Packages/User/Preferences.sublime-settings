@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-  "color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -9,17 +9,16 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Ruby on Rails snippets",
-		"yardoc",
-		"Vintage",
-		"RSpec (snippets and syntax)",
-		"Theme - Soda",
-		"RSpec",
-		"sublime-github",
-		"View In Browser",
-		"Ruby Coverage",
+		"SublimeLinter",
 		"RubyTest",
-		"SublimeLinter"
+		"Ruby Coverage",
+		"RSpec",
+		"Theme - Soda",
+		"View In Browser",
+		"sublime-github",
+		"RSpec (snippets and syntax)",
+		"Vintage",
+		"Ruby on Rails snippets"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -27,5 +26,5 @@
 	"soda_folder_icons": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true
 }
