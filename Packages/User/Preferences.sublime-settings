@@ -4,21 +4,23 @@
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_size": 9.0,
+	"font_face": "Source Code Pro Regular",
+	"font_size": 11.0,
+
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"SublimeLinter",
-		"RubyTest",
-		"Ruby Coverage",
-		"RSpec",
-		"Theme - Soda",
-		"View In Browser",
-		"sublime-github",
-		"RSpec (snippets and syntax)",
 		"Vintage",
-		"Ruby on Rails snippets"
+		"SublimeLinter",
+		"RSpec (snippets and syntax)",
+		"Theme - Soda",
+		"Ruby on Rails snippets",
+		"RSpec",
+		"sublime-github",
+		"Ruby Coverage",
+		"RubyTest",
+		"View In Browser"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
