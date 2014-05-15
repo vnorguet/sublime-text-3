@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Git",
+		"GitGutter",
+		"Idoc",
+		"JSON Reindent",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-jslint",
+		"ToDone"
+	]
+}
