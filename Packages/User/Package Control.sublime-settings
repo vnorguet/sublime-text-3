@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+                "BeautifyRuby",
 		"Better CoffeeScript",
 		"Git",
 		"GitGutter",
