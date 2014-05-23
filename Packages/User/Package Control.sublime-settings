@@ -1,14 +1,16 @@
 {
-	"installed_packages":
-	[
-                "BeautifyRuby",
-		"Better CoffeeScript",
-		"Git",
-		"GitGutter",
-		"Idoc",
-		"JSON Reindent",
-		"SideBarEnhancements",
-		"SublimeLinter-contrib-jslint",
-		"ToDone"
-	]
+    "auto_upgrade_last_run": null,
+    "installed_packages":
+    [
+        "BeautifyRuby",
+        "Better CoffeeScript",
+        "Git",
+        "GitGutter",
+        "Idoc",
+        "JSON Reindent",
+        "Package Control",
+        "SideBarEnhancements",
+        "SublimeLinter-contrib-jslint",
+        "ToDone"
+    ]
 }
