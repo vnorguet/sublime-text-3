@@ -9,4 +9,6 @@
   // Syntax coloration shortcuts
   { "keys": ["alt+shift+r"], "command": "set_file_type", "args": {"syntax": "Packages/Rails/Ruby On Rails.tmLanguage"}},
   { "keys": ["alt+shift+h"], "command": "set_file_type", "args": {"syntax": "Packages/Rails/HTML (Rails).tmLanguage"}},
+  { "keys": ["alt+shift+s"], "command": "set_file_type", "args": {"syntax": "Packages/SQL/SQL.tmLanguage"}},
+  { "keys": ["alt+shift+j"], "command": "set_file_type", "args": {"syntax": "Packages/JavaScript/JSON.tmLanguage"}},
 ]
