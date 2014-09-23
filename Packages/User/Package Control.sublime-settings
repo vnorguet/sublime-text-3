@@ -2,15 +2,20 @@
     "auto_upgrade_last_run": null,
     "installed_packages":
     [
+        "ApplySyntax",
         "BeautifyRuby",
         "Better CoffeeScript",
+        "Chef",
         "Git",
         "GitGutter",
-        "Idoc",
         "JSON Reindent",
+        "MarkdownEditing",
         "Package Control",
+        "Pretty JSON",
+        "SCSS",
         "SideBarEnhancements",
-        "SublimeLinter-contrib-jslint",
-        "ToDone"
+        "Theme - Soda",
+        "ToDone",
+        "Vagrant"
     ]
 }
