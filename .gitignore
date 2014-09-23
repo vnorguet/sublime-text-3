@@ -5,8 +5,22 @@ Cache
 Index
 Installed Packages
 Local
+# Ignore Packages
 Packages/User/Package Control.cache/
 Packages/User/Package Control.last-run
 Packages/BeautifyRuby/
 Packages/ToDone/
+Packages/SublimeFormatSQL/
+Packages/User/ApplySyntax.ext-list
+Backup/
+
+# Useless files
+Packages/User/Markdown (Standard).sublime-settings
+Packages/User/PHP.sublime-settings
+Packages/User/Python.sublime-settings
+Packages/User/Ruby Haml.sublime-settings
+Packages/User/Shell-Unix-Generic.sublime-settings
+Packages/User/XML.sublime-settings
+Packages/User/YAML.sublime-settings
+
 !sublime-text-3
