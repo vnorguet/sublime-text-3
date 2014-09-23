@@ -1,0 +1,12 @@
+# Most file are useless. Ignore all but allow exceptions
+
+## Sublime Text 3
+Cache
+Index
+Installed Packages
+Local
+Packages/User/Package Control.cache/
+Packages/User/Package Control.last-run
+Packages/BeautifyRuby/
+Packages/ToDone/
+!sublime-text-3
