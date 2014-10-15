@@ -1,7 +1,7 @@
 {
     "auto_indent": true,
     "bold_folder_labels": true,
-    "color_scheme": "Packages/User/colour-schemes/Monokai Soda.tmTheme",
+    "color_scheme": "Packages/User/colour-schemes/DevOps.tmTheme",
     "detect_indentation": false,
     "ensure_newline_at_eof_on_save": true,
     "fade_fold_buttons": false,
