@@ -1,4 +1,4 @@
 {
   "tab_or_space": "space",
-  "ruby": "/home/vincent/.rvm/bin/rvm-auto-ruby"
+  "ruby": "~/.rvm/bin/rvm-auto-ruby"
 }

@@ -1,5 +1,8 @@
 # Most file are useless. Ignore all but allow exceptions
 
+# Crappy files
+.DS_Store
+
 ## Sublime Text 3
 Cache
 Index
@@ -14,6 +17,34 @@ Packages/SublimeFormatSQL/
 Packages/User/ApplySyntax.ext-list
 Backup/
 
+.DS_Store
+Packages/.DS_Store
+Packages/Babel/
+Packages/ColorPicker/
+Packages/Gutter Color/
+Packages/JSHint Gutter/
+Packages/Meteor Snippets/
+Packages/PyV8/
+Packages/RubyMotionBuilder/
+Packages/SublimeCodeIntel/
+Packages/SublimeGerrit/
+Packages/User/.SublimeREPLHistory/
+Packages/User/Color Highlighter/
+Packages/User/Default (OSX).sublime-keymap
+Packages/User/HTML (Rails).sublime-settings
+Packages/User/JSON.sublime-settings
+Packages/User/JSX.sublime-settings
+Packages/User/JavaScript (Babel).sublime-settings
+Packages/User/JavaScript.sublime-settings
+Packages/User/Package Control.merged-ca-bundle
+Packages/User/Package Control.system-ca-bundle
+Packages/User/Package Control.user-ca-bundle
+Packages/User/SublimeGerrit.cleanup-info.sublime-settings
+Packages/User/SublimeGerrit.sublime-settings
+Packages/User/SublimeREPL.sublime-settings
+Packages/bz2/
+Packages/pyyaml/
+
 # Useless files
 Packages/User/Markdown (Standard).sublime-settings
 Packages/User/PHP.sublime-settings
@@ -24,3 +55,6 @@ Packages/User/XML.sublime-settings
 Packages/User/YAML.sublime-settings
 
 !sublime-text-3
+
+# SublimeREPL
+Packages/SublimeREPL
