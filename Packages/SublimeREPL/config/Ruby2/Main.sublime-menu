@@ -1,0 +1,42 @@
+[
+  {
+    "id":"tools",
+    "children":[
+      {
+        "caption":"SublimeREPL",
+        "mnemonic":"R2",
+        "id":"SublimeREPL",
+        "children":[
+          {
+            "caption":"Ruby 2",
+            "children":[
+              {
+                "command":"repl_open",
+                "caption":"Ruby2",
+                "id":"repl_ruby2",
+                "mnemonic":"r",
+                "args":{
+                  "type":"subprocess",
+                  "external_id":"ruby2",
+                  "encoding":"utf8",
+                  "cmd":{
+                    "osx":[
+                      "/Users/vincent/.rvm/rubies/ruby-2.2.0/bin/ruby",
+                      "${packages}/SublimeREPL/config/Ruby2/pry_repl.rb",
+                      "$editor"
+                    ]
+                  },
+                  "soft_quit":"\nexit\n",
+                  "cwd":"$file_path",
+                  "cmd_postfix":"\n",
+                  "autocomplete_server": true,
+                  "syntax":"Packages/Ruby/Ruby.tmLanguage"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
