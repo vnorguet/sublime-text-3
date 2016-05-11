@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+exports.${1:this} = function(${2:params}) {
+  //${3:Code here!}
+};
+]]></content>
+  <tabTrigger>exports</tabTrigger>
+  <scope>source.js, source.coffee</scope>
+  <description>exports.myFunction = function(...)</description>
+</snippet>

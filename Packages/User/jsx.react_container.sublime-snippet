@@ -1,0 +1,33 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * React Reactive Component for Meteor
+ */
+
+import React from 'react';
+import { createContainer } from 'meteor/react-meteor-data';
+
+// React template view
+const ${1:ReactComponent} = (props) => (
+  <div className="${2:className}">
+  </div>
+)
+
+//  Container for router with reactive data
+export default ${1}Container = createContainer(props => {
+  // Do all your reactive data access in this method.
+  // Note that this subscription will get cleaned up when your component is unmounted
+  // var handle = Meteor.subscribe("${4:subscriptionName}");
+
+  return {
+    // currentUser: Meteor.user(),
+  };
+}, ${1});
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>container</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+  <description>Meteor React reactive container</description>
+</snippet>
