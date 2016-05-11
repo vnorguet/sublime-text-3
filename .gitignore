@@ -58,3 +58,9 @@ Packages/User/YAML.sublime-settings
 
 # SublimeREPL
 Packages/SublimeREPL
+
+Packages/CodeFormatter/
+Packages/SublimeLinter-contrib-eslint/
+Packages/SublimeLinter/
+Packages/Sublimerge Pro/
+Packages/User/SublimeLinter/
