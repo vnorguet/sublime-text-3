@@ -1,8 +1,24 @@
 {
 	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip"
+	],
 	"bold_folder_labels": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/User/DevOps.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/DevOps (SL).tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -18,16 +34,19 @@
 		"build",
 		"gulp",
 		"node_modules",
-		"compile"
+		"compile",
+		".meteor"
 	],
-	"font_size": 14.0,
+	"font_size": 15.0,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Markdown",
+		"Meteor Autocomplete (TernJS)",
 		"SublimeGerrit",
+		"Sublimerge Pro",
 		"Vintage"
 	],
 	"indent_guide_options":
