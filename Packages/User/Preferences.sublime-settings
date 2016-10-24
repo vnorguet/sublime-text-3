@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"auto_indent": true,
 	"binary_file_patterns":
 	[
@@ -37,14 +38,17 @@
 		"compile",
 		".meteor"
 	],
-	"font_size": 15.0,
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 13.0,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Markdown",
-		"Sublimerge Pro",
 		"Vintage"
 	],
 	"indent_guide_options":

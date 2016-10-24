@@ -5,7 +5,8 @@
     "indent_size": 2, // indentation size
     "preserve_newlines": true, // whether existing line breaks should be preserved,
     "max_preserve_newlines": 2, // maximum number of line breaks to be preserved in one chunk
-    "space_in_square": true
+    "space_in_square": true,
+    "end_with_newline": true, // Add new line at end of file
   },
   "codeformatter_html_options": {
     "syntaxes": "html,asp,xml",
@@ -13,5 +14,17 @@
     "format_on_save": false, // Format on save
     "preserve_newlines": true, // whether existing line breaks should be preserved,
     "max_preserve_newlines": 3, // maximum number of line breaks to be preserved in one chunk
-  }
+    "end_with_newline": true, // Add new line at end of file
+
+  },
+  "codeformatter_scss_options": {
+    "syntaxes": "scss", // Indentation size
+    "selector_separator_newline": true, // Add new lines after selector separators
+    "format_on_save": true, // Format on save
+    "indent_size": 2, // indentation size
+    "preserve_newlines": true, // whether existing line breaks should be preserved,
+    "max_preserve_newlines": 2, // maximum number of line breaks to be preserved in one chunk
+    "space_in_square": true,
+    "end_with_newline": true, // Add new line at end of file
+  },
 }
