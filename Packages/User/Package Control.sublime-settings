@@ -10,11 +10,13 @@
 		"Babel",
 		"BeautifyRuby",
 		"Better CoffeeScript",
+		"Bootstrap 3 Autocomplete",
 		"CodeFormatter",
 		"Color Highlighter",
 		"ColorPicker",
 		"Compare Side-By-Side",
 		"CSS Color Converter",
+		"DiffView",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"Emmet",
@@ -29,6 +31,7 @@
 		"Git Config",
 		"Git Conflict Resolver",
 		"GitGutter",
+		"GitSavvy",
 		"Gradle_Language",
 		"HTMLBeautify",
 		"JavaScript Completions",
@@ -42,6 +45,7 @@
 		"MongoExec",
 		"nginx",
 		"Package Control",
+		"PackageResourceViewer",
 		"Pretty JSON",
 		"React ES6 Snippets",
 		"React Templates",
@@ -51,6 +55,7 @@
 		"SideBarEnhancements",
 		"SingleTrailingNewLine",
 		"SqlBeautifier",
+		"sublime-vince",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
@@ -61,9 +66,15 @@
 		"SublimeLinter-ruby",
 		"SublimeREPL",
 		"Sublimerge Pro",
+		"Terraform",
 		"Theme - Soda",
 		"ToDone",
+		"TOML",
 		"Vagrant",
 		"Web Inspector"
+	],
+	"repositories":
+	[
+		"https://github.com/vnorguet/sublime-vince"
 	]
 }
