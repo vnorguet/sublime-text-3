@@ -20,7 +20,6 @@
 	"bold_folder_labels": true,
 	"caret_style": "wide",
 	"color_scheme": "Packages/User/DevOps.tmTheme",
-	"detect_indentation": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
@@ -42,12 +41,13 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 14,
+	"font_size": 15,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
