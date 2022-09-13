@@ -19,7 +19,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/User/DevOps.tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
@@ -48,7 +48,8 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"Vintage"
+		"SingleTrailingNewLine",
+		"Vintage",
 	],
 	"indent_guide_options":
 	[
@@ -64,7 +65,8 @@
 	"shift_tab_unindent": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"theme": "auto",
+	"show_encoding" : true,
 }
